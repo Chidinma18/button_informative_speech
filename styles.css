@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+button {
+   background-color: lightpink;
+   text-decoration: none;
+   padding: 10px 20px;
+   border-radius: 4px;
+   border: none;
+   margin-top: 30px;
+   margin-left: 40px;
+   display:inline-block;
+}
